@@ -1,0 +1,6 @@
+Revision history for Perl extension Class::Context.
+
+0.01  Wed Jul 22 10:09:43 2009
+	- original version; created by h2xs 1.23 with options
+		-AX Class::Context
+
